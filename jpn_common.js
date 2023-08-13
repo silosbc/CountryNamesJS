@@ -1,4 +1,4 @@
-var jpn= {
+var jpn_common= {
   'AW' : 'アルバ',
   'AF' : 'アフガニスタン',
   'AO' : 'アンゴラ',

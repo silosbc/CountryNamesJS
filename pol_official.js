@@ -1,4 +1,4 @@
-var pol= {
+var pol_official= {
   'AW' : 'Aruba',
   'AF' : 'Islamska Republika Afganistanu',
   'AO' : 'Republika Angoli',

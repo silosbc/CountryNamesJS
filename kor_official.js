@@ -1,4 +1,4 @@
-var kor= {
+var kor_official= {
   'AW' : '아루바',
   'AF' : '아프가니스탄 이슬람 공화국',
   'AO' : '앙골라 공화국',

@@ -1,4 +1,4 @@
-var zho= {
+var zho_common= {
   'AW' : '阿鲁巴',
   'AF' : '阿富汗',
   'AO' : '安哥拉',

@@ -1,4 +1,4 @@
-var slk= {
+var slk_official= {
   'AW' : 'Aruba',
   'AF' : 'Afgánsky islamský štát',
   'AO' : 'Angolská republika',

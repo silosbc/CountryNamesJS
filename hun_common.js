@@ -1,4 +1,4 @@
-var hun= {
+var hun_common= {
   'AW' : 'Aruba',
   'AF' : 'Afganisztán',
   'AO' : 'Angola',

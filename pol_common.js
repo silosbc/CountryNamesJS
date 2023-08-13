@@ -1,4 +1,4 @@
-var pol= {
+var pol_common= {
   'AW' : 'Aruba',
   'AF' : 'Afganistan',
   'AO' : 'Angola',

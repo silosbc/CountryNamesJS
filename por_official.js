@@ -1,4 +1,4 @@
-var por= {
+var por_official= {
   'AW' : 'Aruba',
   'AF' : 'República Islâmica do Afeganistão',
   'AO' : 'República de Angola',

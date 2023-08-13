@@ -1,4 +1,4 @@
-var hrv= {
+var hrv_common= {
   'AW' : 'Aruba',
   'AF' : 'Afganistan',
   'AO' : 'Angola',

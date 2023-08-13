@@ -1,4 +1,4 @@
-var nld= {
+var nld_common= {
   'AW' : 'Aruba',
   'AF' : 'Afghanistan',
   'AO' : 'Angola',

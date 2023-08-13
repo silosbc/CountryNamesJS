@@ -1,4 +1,4 @@
-var ita= {
+var ita_official= {
   'AW' : 'Aruba',
   'AF' : 'Repubblica islamica dell\'Afghanistan',
   'AO' : 'Repubblica dell\'Angola',

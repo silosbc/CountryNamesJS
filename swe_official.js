@@ -1,4 +1,4 @@
-var swe= {
+var swe_official= {
   'AW' : 'Aruba',
   'AF' : 'Islamiska republiken Afghanistan',
   'AO' : 'Republiken Angola',

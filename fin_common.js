@@ -1,4 +1,4 @@
-var fin= {
+var fin_common= {
   'AW' : 'Aruba',
   'AF' : 'Afganistan',
   'AO' : 'Angola',

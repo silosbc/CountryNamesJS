@@ -1,4 +1,4 @@
-var deu= {
+var deu_official= {
   'AW' : 'Aruba',
   'AF' : 'Islamische Republik Afghanistan',
   'AO' : 'Republik Angola',

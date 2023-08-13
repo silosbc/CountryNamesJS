@@ -1,4 +1,4 @@
-var spa= {
+var spa_official= {
   'AW' : 'Aruba',
   'AF' : 'República Islámica de Afganistán',
   'AO' : 'República de Angola',

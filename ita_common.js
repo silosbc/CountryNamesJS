@@ -1,4 +1,4 @@
-var ita= {
+var ita_common= {
   'AW' : 'Aruba',
   'AF' : 'Afghanistan',
   'AO' : 'Angola',

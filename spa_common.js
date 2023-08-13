@@ -1,4 +1,4 @@
-var spa= {
+var spa_common= {
   'AW' : 'Aruba',
   'AF' : 'Afganistán',
   'AO' : 'Angola',

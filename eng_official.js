@@ -1,4 +1,4 @@
-var eng= {
+var eng_official= {
   'AW' : 'Aruba',
   'AF' : 'Islamic Republic of Afghanistan',
   'AO' : 'Republic of Angola',

@@ -1,4 +1,4 @@
-var hun= {
+var hun_official= {
   'AW' : 'Aruba',
   'AF' : 'Afganisztáni Iszlám Köztársaság',
   'AO' : 'Angola',

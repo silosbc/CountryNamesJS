@@ -1,4 +1,4 @@
-var deu= {
+var deu_common= {
   'AW' : 'Aruba',
   'AF' : 'Afghanistan',
   'AO' : 'Angola',

@@ -1,4 +1,4 @@
-var por= {
+var por_common= {
   'AW' : 'Aruba',
   'AF' : 'Afeganistão',
   'AO' : 'Angola',

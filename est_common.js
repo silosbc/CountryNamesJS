@@ -1,4 +1,4 @@
-var est= {
+var est_common= {
   'AW' : 'Aruba',
   'AF' : 'Afganistan',
   'AO' : 'Angola',

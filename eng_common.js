@@ -1,4 +1,4 @@
-var eng= {
+var eng_common= {
   'AW' : 'Aruba',
   'AF' : 'Afghanistan',
   'AO' : 'Angola',

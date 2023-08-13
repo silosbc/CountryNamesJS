@@ -1,4 +1,4 @@
-var ces= {
+var ces_official= {
   'AW' : 'Aruba',
   'AF' : 'Afghánská islámská republika',
   'AO' : 'Angolská republika',

@@ -1,4 +1,4 @@
-var swe= {
+var swe_common= {
   'AW' : 'Aruba',
   'AF' : 'Afghanistan',
   'AO' : 'Angola',

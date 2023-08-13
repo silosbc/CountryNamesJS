@@ -1,4 +1,4 @@
-var hrv= {
+var hrv_official= {
   'AW' : 'Aruba',
   'AF' : 'Islamska Republika Afganistan',
   'AO' : 'Republika Angola',

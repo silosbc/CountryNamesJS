@@ -1,4 +1,4 @@
-var est= {
+var est_official= {
   'AW' : 'Aruba',
   'AF' : 'Afganistani Islamivabariik',
   'AO' : 'Angola Vabariik',

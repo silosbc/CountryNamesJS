@@ -1,4 +1,4 @@
-var nld= {
+var nld_official= {
   'AW' : 'Aruba',
   'AF' : 'Islamitische Republiek Afghanistan',
   'AO' : 'Republiek Angola',

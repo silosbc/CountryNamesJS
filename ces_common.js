@@ -1,4 +1,4 @@
-var ces= {
+var ces_common= {
   'AW' : 'Aruba',
   'AF' : 'Afghánistán',
   'AO' : 'Angola',

@@ -1,4 +1,4 @@
-var fra= {
+var fra_common= {
   'AW' : 'Aruba',
   'AF' : 'Afghanistan',
   'AO' : 'Angola',

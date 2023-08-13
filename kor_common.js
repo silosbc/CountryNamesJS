@@ -1,4 +1,4 @@
-var kor= {
+var kor_common= {
   'AW' : '아루바',
   'AF' : '아프가니스탄',
   'AO' : '앙골라',

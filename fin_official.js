@@ -1,4 +1,4 @@
-var fin= {
+var fin_official= {
   'AW' : 'Aruba',
   'AF' : 'Afganistanin islamilainen tasavalta',
   'AO' : 'Angolan tasavalta',

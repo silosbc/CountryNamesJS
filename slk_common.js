@@ -1,4 +1,4 @@
-var slk= {
+var slk_common= {
   'AW' : 'Aruba',
   'AF' : 'Afganistan',
   'AO' : 'Angola',
